@@ -19,7 +19,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: I'm particularly passionate about serverless architectures.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-njriordan-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/niall-riordan-1b450150)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-njriordan-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/niall-riordan-1b450150")
 
 ---
 
